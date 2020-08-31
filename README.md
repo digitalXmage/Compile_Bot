@@ -14,7 +14,7 @@ A Bot which automatically compiles your Programs for you. Launch the bot in your
         
         
 # Misc
-      call THe bot program in the directory your dev working directory is, and provide the compile.sh script so the bot can automatically compile the code for you
+call THe bot program in the directory your dev working directory is, and provide the compile.sh script so the bot can automatically compile the code for you
       
       
 # Todo
