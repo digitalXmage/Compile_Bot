@@ -18,9 +18,9 @@ call THe bot program in the directory your dev working directory is, and provide
       
       
 # Todo
-      1. Clean up code, annotate , seperate .c .h files
-      2. Ability to recheck compile.sh script for changes, so no need to kill and restart the program if the compile.sh scirpt has been updated
-      3. Create a logging function to log output to a textfile, as the bot is a daemon process
-      4. Allow user's to specify what language they are writing in, at the moment only works with .C files
-      5. ALlow the option to provide makeFiles instead of a bash compilation script
+1. Clean up code, annotate , seperate .c .h files
+2. Ability to recheck compile.sh script for changes, so no need to kill and restart the program if the compile.sh scirpt has been updated
+3. Create a logging function to log output to a textfile, as the bot is a daemon process
+4. Allow user's to specify what language they are writing in, at the moment only works with .C files
+5. ALlow the option to provide makeFiles instead of a bash compilation script
       
