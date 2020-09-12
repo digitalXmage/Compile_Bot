@@ -1,4 +1,4 @@
-# Dev_Buddy prototype.1
+# Dev_Buddy (v.1)
 A Bot which automatically compiles your Programs for you. Launch the bot in your working environment and provide the compilation script for the project. So whenever you Write any changes, such as Writing to file in Vim, the bot will automatically compile the code for you.
 
 # Start
