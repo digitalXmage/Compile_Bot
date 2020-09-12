@@ -23,4 +23,4 @@ call THe bot program in the directory your dev working directory is, and provide
 3. Create a logging function to log output to a textfile, as the bot is a daemon process
 4. Allow user's to specify what language they are writing in, at the moment only works with .C files
 5. ALlow the option to provide makeFiles instead of a bash compilation script
-      
+6. Get rid of global data structures!!! This is only a first quick prototype.
